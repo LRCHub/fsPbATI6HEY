@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ライオン －May'n Ver.-VideoAudio",
+  "base_artist": "May'n",
+  "createdAt": "2026-01-01T13:43:11.860235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ライオン",
+      "artist": "ランカ・リー＝中島愛、シェリル・ノーム starring May'n",
+      "has_synced": false,
+      "path": "select/01_ライオン_ランカ・リー=中島愛、シェリル・ノーム_starring_May'n.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ライオン",
+      "artist": "Berry Goodman",
+      "has_synced": true,
+      "path": "select/02_ライオン_Berry_Goodman.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ライオン -May'n Ver.-",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/03_ライオン_-May'n_Ver.-_May'n.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ライオン",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/04_ライオン_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ライオン",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/05_ライオン_May'n.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ライオン",
+      "artist": "May’n",
+      "has_synced": true,
+      "path": "select/06_ライオン_May’n.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ライオン - Lion",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/07_ライオン_-_Lion_May'n.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ライオン - Lion",
+      "artist": "May'n, Megumi Nakajima",
+      "has_synced": false,
+      "path": "select/08_ライオン_-_Lion_May'n,_Megumi_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ライオン",
+      "artist": "May'n / 中島  愛",
+      "has_synced": false,
+      "path": "select/09_ライオン_May'n___中島_愛.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ライオン",
+      "artist": "May’n、中島愛",
+      "has_synced": false,
+      "path": "select/10_ライオン_May’n、中島愛.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ライオン",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/11_ライオン_May'n.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ライオン",
+      "artist": "天野月子",
+      "has_synced": true,
+      "path": "select/12_ライオン_天野月子.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ライオン",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/13_ライオン_May'n.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ライオン・ウィズ・イーグル・ウィングズ",
+      "artist": "Kreator",
+      "has_synced": true,
+      "path": "select/14_ライオン・ウィズ・イーグル・ウィングズ_Kreator.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "愛を感じて (『ライオン・キング』より)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/15_愛を感じて_(『ライオン・キング』より)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lion (ライオン) (First Opening theme of Macross Frontier)",
+      "artist": "May’n、中島愛",
+      "has_synced": true,
+      "path": "select/16_Lion_(ライオン)_(First_Opening_theme_of_Macross_Frontier)_May’n、中島愛.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ライオン (大クラン×小クランバージョン)",
+      "artist": "大クラン (CV.豊口めぐみ) × 小クラン (CV.豊口めぐみ)",
+      "has_synced": false,
+      "path": "select/17_ライオン_(大クラン×小クランバージョン)_大クラン_(CV.豊口めぐみ)_×_小クラン_(CV.豊口めぐみ).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lion (ライオン) (First Opening theme of Macross Frontier)",
+      "artist": "May'n、中島愛",
+      "has_synced": true,
+      "path": "select/18_Lion_(ライオン)_(First_Opening_theme_of_Macross_Frontier)_May'n、中島愛.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライオン -May'n Ver.-",
+      "artist": "May'n",
+      "has_synced": false,
+      "path": "select/pl_01_ライオン_-May'n_Ver.-_May'n.txt"
+    }
+  ]
+}
